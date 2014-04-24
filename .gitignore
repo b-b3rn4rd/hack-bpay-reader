@@ -1,0 +1,6 @@
+nbproject/
+vendor/
+composer.lock
+travis/
+phpunit.xml
+test.php
