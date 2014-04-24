@@ -1,5 +1,7 @@
 # ABOUT
 ----
+[![Build Status](https://travis-ci.org/b-b3rn4rd/hack-bpay-reader.svg?branch=master)](https://travis-ci.org/b-b3rn4rd/hack-bpay-reader) 
+
 Hack BPAY Reader is an experimental library written in [hack][2]. It decrypts and parses BPAY biller information file(s).
 
 #REQUIREMENTS
