@@ -1,0 +1,23 @@
+{
+	"name": "b-b3rn4rd/hack-bpay-reader",
+	"process-timeout":6000,
+    "description": "Hack BPAY Reader - Biller Information File Reader",
+	"keywords": ["hacklang", "bpay", "reader", "hhvm"],
+	"licence": "Unlicense",
+	"authors": [
+		{ "name": "Bernard Baltrusaitis", "email": "bernard@runawaylover.info" }
+	],
+	"require": {
+		"hhvm": ">=3"
+	},
+  "require-dev": {
+      "phpunit/phpunit": ">=3.7",
+      "mikey179/vfsStream": ">=1",
+      "satooshi/php-coveralls": "dev-master"
+  },
+  "autoload": {
+		"psr-0": {  
+      "BPAY\\": "src/"
+    }
+	}
+}
