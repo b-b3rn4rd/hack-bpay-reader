@@ -1,3 +1,8 @@
 language: php
 php:
   - hhvm
+before_script:
+  - composer --dev install
+
+script:
+  - phpunit
