@@ -14,7 +14,7 @@ Install Hack BPAY Reader using Composer:
 ```json
 {
     "require": {
-        "b-b3rn4rd/hack-bpay-reader": "dev-master"
+        "b-b3rn4rd/hack-bpay-reader": "1.0.*"
     }
 }
 ```
