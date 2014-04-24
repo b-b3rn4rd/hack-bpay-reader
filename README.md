@@ -1,6 +1,6 @@
 # ABOUT
 ----
-Hack BPAY Reader is an experemental library written in [hack][2]. It decrypts and parses BPAY biller information file(s).
+Hack BPAY Reader is an experimental library written in [hack][2]. It decrypts and parses BPAY biller information file(s).
 
 #REQUIREMENTS
 ---
