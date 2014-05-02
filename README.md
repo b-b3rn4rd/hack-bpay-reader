@@ -6,7 +6,7 @@ Hack BPAY Reader is an experimental library written in [hack][2]. It decrypts an
 
 #REQUIREMENTS
 ---
-Hack BPAY Reader requires hhvm version 3 or greater, **valid** public and private key pair and installed gnupg.
+Hack BPAY Reader requires hhvm version 3 or greater, **valid** passphrase and installed gnupg.
 
 #INSTALLATION
 ---
